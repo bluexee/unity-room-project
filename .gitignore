@@ -1,0 +1,20 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# PackageCache (optional if you want to ignore large package caches)
+Packages/com.unity.burst@07790c2d06d9/PackageCache/
+
+# IDE / OS files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.pidb
+.DS_Store
+Thumbs.db
